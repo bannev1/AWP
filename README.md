@@ -27,7 +27,7 @@ AWP (Automated Wildfire Prediction) is a Python-based project that uses machine 
 
 To view a full demo of this project, please take a look at the [demo video](https://youtu.be/9h0zErdJY9c).
 
-For more detailed information on the project and how to use it, please visit our [wiki](https://github.com/realhuman101/AWP/wiki).
+For more detailed information on the project and how to use it, please visit our [wiki](https://github.com/bannev1/AWP/wiki).
 
 This project is part of the [AIoT Engineering & Entrepreneurial Skills Education for Gifted Students programme](https://cityueegef.github.io/about/).
 
@@ -123,20 +123,20 @@ This project is licensed under the GPL v3 license. See our [LICENSE](LICENSE) fo
 
 ## Credits
 
-- [Valentina Banner](https://github.com/realhuman101) - *Co-creator*
+- [Valentina Banner](https://github.com/bannev1) - *Co-creator*
 - [Alicia Yuen](https://github.com/Alicia1234567891) - *Co-creator*
 - [Maya Yan](https://github.com/mayahkg) - *Co-creator*
 
 ## Contact
 
-- GitHub: [@realhuman101](https://github.com/realhuman101)
+- GitHub: [@bannev1](https://github.com/bannev1)
 - Email: valentinavbanner@gmail.com
 
 ## Acknowledgments
 
 We would like to thank the following people and organizations for their support and contributions to this project:
 
-- [Valentina Banner](https://realhuman101.github.io/) for creating the model, writing tests and assisting with the GUI.
+- [Valentina Banner](https://valentinabanner.com/) for creating the model, writing tests and assisting with the GUI.
 - [Alicia Yuen](https://github.com/Alicia1234567891) for designing the GUI and helping create and design the project documents.
 - [Maya Yan](https://github.com/mayahkg) for creating the GUI.
 - [CityU EE GEF](https://cityueegef.github.io/) for providing funding, opportunities and resources.
